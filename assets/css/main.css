@@ -2369,6 +2369,10 @@ input, select, textarea {
 		padding-left: 1em;
 	}
 
+	div.email > span:nth-child(2) {
+		display: none;
+	}
+
 	.sub_list {
 		list-style-type: circle; 
 		margin: 0;
