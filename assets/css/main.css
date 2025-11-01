@@ -2369,6 +2369,23 @@ input, select, textarea {
 		padding-left: 1em;
 	}
 
+	.sub_list {
+		list-style-type: circle; 
+		margin: 0;
+	}
+
+	.sub_p {
+		
+		margin: 0.25em;
+	}
+
+	.store_box {
+		background-color: white;
+		border: 5px solid purple;
+		padding: 30px;
+		border-radius: 20px;
+	}
+
 		ul li {
 			padding-left: 0.5em;
 		}
